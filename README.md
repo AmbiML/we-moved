@@ -5,6 +5,8 @@ All hardware and software developed for the Sparrow project can be found at open
 
 |  Repo                | Description                                     |
 | -------------------- | ----------------------------------------------- |
+| build                |                                                 |
+| docs                 |                                                 |
 | hw/kelvin            | Kelvin HW design                                |
 | hw/matcha            | Matcha Top level HW design                      |
 | manifest             | Repo manifest (Repo entry point)                |
